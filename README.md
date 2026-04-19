@@ -65,7 +65,7 @@ pip install -r requirements.txt
 # Run server
 python main.py
 ```
-##Frontend
+## Run Frontend
 ```bash
 
 cd frontend
